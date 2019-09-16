@@ -10,14 +10,12 @@ An engaging game-style app where users create and vote on unique cartoon caption
 
 •	Development of a project from beginning to end. Goals were met through debugging and troubleshooting for various solutions, which lead to successful completion.
 
-
 To Start Application!
-1. Run localhost on the backend.
-  https://github.com/Swofford2/caption_backend
+1\. Run localhost on the backend.
+  <https://github.com/Swofford2/caption_backend>
 
-2. Run frontend
-  open index.html
-
+2.  Run frontend
+    open index.html
 
 Author -
 Christopher Swofford
